@@ -9,6 +9,7 @@ for( var i=0; i<Number;i++){
  buttonAnimation(buttonInnerHTML);
 
  }
+}
 
   document.addEventListener("keypress",music1);
 
@@ -74,7 +75,7 @@ buttonAnimation(keypress1);
   }
 
 
-}
+
 
 /*document.querySelectorAll("button")[1].addEventListener("click", handle1);
 
